@@ -1,2 +1,2 @@
-# gameobject-rotate
- Exercise 1
+# Exercise 1
+Submit a Unity MonoBehaviour .cs​ file that make the GameObject rotate
